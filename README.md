@@ -38,77 +38,80 @@
 
 ## ⚙️ Tech Arsenal
 
-<div align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎨 Frontend Core
+## 🎨 Frontend Core
 
-#### Languages
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F172A" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F172A" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F172A" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F172A" alt="TypeScript" />
+### Languages
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F172A" />
 
-#### Styling
-<img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F172A" alt="CSS" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F172A" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0F172A" alt="Bootstrap" />
+### Styling
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0F172A" />
 
-#### Frontend Frameworks
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A" alt="React.js" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0F172A" alt="Next.js" />
+### Frameworks
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0F172A" />
 
-#### State Management
-<img src="https://img.shields.io/badge/Context_API-10B981?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A" alt="Context API" />
+### State Management
+<img src="https://img.shields.io/badge/Context_API-10B981?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A" />
 
-#### API Handling
-<img src="https://img.shields.io/badge/Fetch_API-0F172A?style=for-the-badge&logo=javascript&logoColor=10B981&labelColor=0F172A" alt="Fetch API" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=0F172A" alt="Axios" />
+### API Handling
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Fetch_API-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-#### Frontend Tools
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0F172A" alt="Vite" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0F172A" alt="npm" />
+### Tools
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
 
-#### Version Control
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0F172A" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" />
+</td>
 
-### ⚙️ Backend Core
+<td width="50%" valign="top">
 
-#### Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F172A" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F172A" alt="TypeScript" />
+## ⚙️ Backend Core
 
-#### Runtime
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0F172A" alt="Node.js" />
+### Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F172A" />
 
-#### Frameworks
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0F172A" alt="Express.js" />
+### Runtime & Framework
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0F172A" />
 
-#### Authentication
-<img src="https://img.shields.io/badge/JWT-10B981?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="JWT" />
-<img src="https://img.shields.io/badge/Cookies-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B" alt="Cookies" />
-<img src="https://img.shields.io/badge/Sessions-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B" alt="Sessions" />
-<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0F172A" alt="OAuth" />
+### Authentication
+<img src="https://img.shields.io/badge/JWT-10B981?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Cookies-0F172A?style=for-the-badge&labelColor=1E293B" />
 
-#### File Upload
-<img src="https://img.shields.io/badge/Multer-10B981?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="Multer" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=0F172A" alt="Cloudinary" />
+### Database
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&labelColor=0F172A" />
 
-#### APIs
-<img src="https://img.shields.io/badge/REST_API-10B981?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="REST API" />
+### APIs & Upload
+<img src="https://img.shields.io/badge/REST_API-10B981?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Multer-10B981?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=0F172A" />
 
-#### Database
-<img src="https://img.shields.io/badge/NoSQL-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F172A" alt="NoSQL" />
-<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F172A" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="Mongoose" />
+### Deployment
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=0F172A" />
 
-#### Deployment
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Vercel" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=0F172A" alt="Render" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=0F172A" alt="Railway" />
+### Security
+<img src="https://img.shields.io/badge/bcrypt-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/CORS-10B981?style=for-the-badge&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/Rate_Limiting-0F172A?style=for-the-badge&labelColor=1E293B" />
 
-#### Cloud
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=0F172A" alt="Cloudinary" />
+</td>
+</tr>
+</table>
 
 #### Security
 <img src="https://img.shields.io/badge/bcrypt-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B" alt="bcrypt" />
