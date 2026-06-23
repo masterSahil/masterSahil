@@ -134,11 +134,11 @@
 
 | 🎯 **Frontend Precision** | 🏗️ **Backend-First Design** |
 |:---|:---|
-| Building responsive, accessible, and polished interfaces with strong attention to component structure, performance, and user flow. | Architecting robust APIs, database schemas, authentication layers[...]
+| Building responsive, accessible, and polished interfaces with strong attention to component structure, performance, and user flow. | Architecting robust APIs, database schemas, authentication layers with scalable system design. |
 
 | 💡 **Full-Stack Ownership** | 🚀 **Production-Ready Shipping** |
 |:---|:---|
-| Designing UX, building backend, managing data flow, and connecting it all with clean architecture. | Real apps, not tutorials. Every project is iterated to completion with attention to edge cases an[...]
+| Designing UX, building backend, managing data flow, and connecting it all with clean architecture. | Real apps, not tutorials. Every project is iterated to completion with attention to edge cases and quality. |
 
 </div>
 
@@ -150,7 +150,7 @@
   <table>
     <tr>
       <td valign="top" width="56%">
-        <img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981[...]
+        <img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&border=10B981&hide_border=true" alt="GitHub Streak Stats" />
       </td>
       <td valign="top" width="44%">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&layout=compact&langs_count=8&hide_progress=true&theme=dark&bg_color=0F172A&text_color=ffffff&border_color=10B981&title_color=10B981&count_private=true&hide=html,css&hide_title=false" alt="Top Languages" />
