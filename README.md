@@ -8,16 +8,16 @@
 <div align="left">
   <p>
     <a href="mailto:contact@mastersahil.dev">
-      <img src="https://img.shields.io/badge/✉️%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
+      <img src="https://img.shields.io/badge/%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/mastersahil">
       <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
     </a>
     <a href="https://www.mastersahil.dev">
-      <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
     </a>
     <a href="https://github.com/masterSahil">
-      <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
+      <img src="https://img.shields.io/badge/%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
     </a>
   </p>
 </div>
