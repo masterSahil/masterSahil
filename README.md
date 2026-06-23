@@ -38,7 +38,7 @@
 
 ## ⚙️ Tech Arsenal
 
-<table width="1080">
+<table style="min-width: 100%">
 <tr>
 <td width="50%" valign="top">
 
