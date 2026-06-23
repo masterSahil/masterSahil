@@ -2,16 +2,16 @@
 
 <div align="left">
   <p>
-    <a href="mailto:contact@mastersahil.dev">
+    <a href="mailto:7882mastersahil@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/mastersahil">
+    <a href="https://linkedin.com/in/mastersahil" target="_blank">
       <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
     </a>
-    <a href="https://www.mastersahil.dev">
+    <a href="https://www.mastersahil.dev" target="_blank">
       <img src="https://img.shields.io/badge/%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
     </a>
-    <a href="https://github.com/masterSahil">
+    <a href="https://github.com/masterSahil" target="_blank">
       <img src="https://img.shields.io/badge/%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
     </a>
   </p>
@@ -207,24 +207,24 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
   <table>
     <tr>
       <td>
-        <a href="https://www.mastersahil.dev">
+        <a href="https://www.mastersahil.dev" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
         </a>
       </td>
       <td>
-        <a href="mailto:contact@mastersahil.dev">
+        <a href="mailto:7882mastersahil@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://linkedin.com/in/mastersahil">
+        <a href="https://linkedin.com/in/mastersahil" target="_blank">
           <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Let%27s%20Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/masterSahil">
+        <a href="https://github.com/masterSahil" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Follow%20the%20Build-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
         </a>
       </td>
