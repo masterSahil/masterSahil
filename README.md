@@ -144,41 +144,7 @@
 
 ---
 
-## 📈 My Repository Portfolio
-
-<div align="left">
-
-### 🔧 Backend-Heavy MERN Projects
-| Project | Tech Stack | Focus Area |
-|:---|:---|:---|
-| `NodeJS-Projects` | Node.js, Express | Server-side logic & API design |
-| `backend-1` | Express, MongoDB | RESTful architecture patterns |
-| `vault_app-backend` | Node.js, JWT, MongoDB | Secure authentication flows |
-| `Mongo-Crud-in-Next-Js` | Next.js, MongoDB | Full-stack CRUD implementation |
-| `Otp_Verify` | Node.js, Express, OTP | Verification & security systems |
-| `LMS` | MERN Stack | Learning management architecture |
-| `E-Shop` | MERN, Payment Integration | E-commerce backend systems |
-| `Chatbot-main` | Node.js, NLP | Real-time messaging backend |
-
-### 🎨 Frontend & UI Excellence
-| Project | Tech Stack | Focus Area |
-|:---|:---|:---|
-| `Master-Portfolio` | React, CSS | Premium portfolio presentation |
-| `Corporate` | React, HTML/CSS | Enterprise-grade landing page |
-| `Netflix` | React | Streaming platform UI recreation |
-| `Yummy` | React, Responsive Design | Food delivery interface |
-| `Responsive-Travel` | HTML, CSS | Mobile-first travel website |
-
-### 🧠 DSA & Algorithms
-| Project | Focus Area |
-|:---|:---|
-| `dsa-revise`, `DSA`, `Pattern` | Data structures, algorithms, pattern recognition |
-
-</div>
-
----
-
-## 📊 Development Velocity
+## 📈 Development Velocity
 
 <div align="left">
   <table>
@@ -187,7 +153,7 @@
         <img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981[...]
       </td>
       <td valign="top" width="44%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&layout=compact&langs_count=8&hide_progress=true&theme=dark&bg_color=0F172A&text_color=ffffff&b[...]
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&layout=compact&langs_count=8&hide_progress=true&theme=dark&bg_color=0F172A&text_color=ffffff&border_color=10B981&title_color=10B981&count_private=true&hide=html,css&hide_title=false" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -252,7 +218,7 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
       </td>
       <td>
         <a href="mailto:contact@mastersahil.dev">
-          <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" [...]
+          <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
         </a>
       </td>
     </tr>
@@ -274,7 +240,7 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
 ---
 
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=footer&text=Simple%20%7C%20Clean%20%7C%20Consistent&fontSize=22&fontColor=10B981&animation=fadeIn" alt="Foot[...]
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=footer&text=Simple%20%7C%20Clean%20%7C%20Consistent&fontSize=22&fontColor=10B981&animation=fadeIn" alt="Footer Banner" />
 </div>
 
 ---
