@@ -104,11 +104,6 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=0F172A" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=0F172A" />
 
-### Security
-<img src="https://img.shields.io/badge/bcrypt-0F172A?style=for-the-badge&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/CORS-10B981?style=for-the-badge&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/Rate_Limiting-0F172A?style=for-the-badge&labelColor=1E293B" />
-
 </td>
 </tr>
 </table>
