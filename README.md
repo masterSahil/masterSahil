@@ -1,11 +1,11 @@
 <!-- Hero Banner Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=320&section=header&text=SAHIL&fontSize=88&fontColor=10B981&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Frontend%20%7C%20Backend%20Engineer&descAlignY=58" alt="Hero Banner" />
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=260&section=header&text=Master%20Sahil%20-%20Full%20Stack%20%7C%7C%20MERN%20Stack%20%7C%7C%20App%20Developer&fontSize=40&fontColor=10B981&animation=fadeIn&fontAlign=left&fontAlignY=40&desc=Architecting%20clean%20%26%20scalable%20web%20applications&descAlign=left&descAlignY=62" alt="Hero Banner" />
 </div>
 
-<h1 align="center">🏗️ Architecting Scalable Web Systems with the MERN Stack</h1>
+<h1 align="left">🏗️ Architecting Scalable Web Systems with the MERN Stack</h1>
 
-<div align="center">
+<div align="left">
   <p>
     <a href="mailto:contact@mastersahil.dev">
       <img src="https://img.shields.io/badge/✉️%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
@@ -26,8 +26,8 @@
 
 ## 📊 Developer Snapshot
 
-<div align="center">
-
+<div align="left">
+  
 | Metric | Status |
 |:---|:---|
 | **Public Repositories** | 30+ |
@@ -43,7 +43,7 @@
 
 ## ⚙️ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### 🎨 Frontend Core
 
@@ -130,7 +130,7 @@
 
 ## 🧩 Engineering Philosophy
 
-<div align="center">
+<div align="left">
 
 | 🎯 **Frontend Precision** | 🏗️ **Backend-First Design** |
 |:---|:---|
@@ -146,7 +146,7 @@
 
 ## 📈 My Repository Portfolio
 
-<div align="center">
+<div align="left">
 
 ### 🔧 Backend-Heavy MERN Projects
 | Project | Tech Stack | Focus Area |
@@ -180,7 +180,7 @@
 
 ## 📊 Development Velocity
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td valign="top" width="56%">
@@ -197,7 +197,7 @@
 
 ## 🎯 What I'm Known For
 
-<div align="center">
+<div align="left">
 
 🔐 **Secure Auth Systems** • 🗄️ **Database-Driven Apps** • 📤 **File Upload Handling**
 
@@ -211,7 +211,7 @@
 
 ## 🛠️ My Build Process
 
-<div align="center">
+<div align="left">
 
 **01 — Design & Plan** → Architecture the backend system, database schema, and API endpoints
 
@@ -242,7 +242,7 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
 
 ## 🌐 Let's Connect
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td>
@@ -273,13 +273,13 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer&text=Building%20Tomorrow's%20Web%20Systems%20Today&fontSize=20&fontColor=10B981&animation=fadeIn" alt="Footer Banner" />
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=footer&text=Simple%20%7C%20Clean%20%7C%20Consistent&fontSize=22&fontColor=10B981&animation=fadeIn" alt="Footer Banner" />
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   <p>
     <strong>I build MERN stack and backend-heavy web applications with architectural rigor and user-focused polish.</strong>
   </p>
