@@ -124,7 +124,7 @@
   <table>
     <tr>
       <td valign="top" width="56%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak Stats" />
+        <img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak Stats" />
       </td>
       <td valign="top" width="44%">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&theme=dark&bg_color=0F172A&text_color=ffffff&border_color=10B981&title_color=10B981&icon_color=10B981&layout=compact" alt="Top Languages" />
