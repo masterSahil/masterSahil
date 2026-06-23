@@ -1,6 +1,6 @@
 <!-- Hero Banner Section -->
 <div align="left">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=260&section=header&text=Master%20Sahil%20-%20Full%20Stack%20%7C%7C%20MERN%20Stack%20%7C%7C%20App%20Developer&fontSize=40&fontColor=10B981&animation=fadeIn&fontAlign=left&fontAlignY=40&desc=Architecting%20clean%20%26%20scalable%20web%20applications&descAlign=left&descAlignY=62" alt="Hero Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=260&section=header&text=Master%20Sahil%20-%20Full%20Stack%20%7C%7C%20MERN%20Stack%20%7C%7C%20App%20Develope[...]
 </div>
 
 <h1 align="left">🏗️ Architecting Scalable Web Systems with the MERN Stack</h1>
@@ -8,16 +8,16 @@
 <div align="left">
   <p>
     <a href="mailto:contact@mastersahil.dev">
-      <img src="https://img.shields.io/badge/%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
+      <img src="https://img.shields.io/badge/✉️%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/mastersahil">
       <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
     </a>
     <a href="https://www.mastersahil.dev">
-      <img src="https://img.shields.io/badge/%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
     </a>
     <a href="https://github.com/masterSahil">
-      <img src="https://img.shields.io/badge/%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
+      <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -134,11 +134,11 @@
 
 | 🎯 **Frontend Precision** | 🏗️ **Backend-First Design** |
 |:---|:---|
-| Building responsive, accessible, and polished interfaces with strong attention to component structure, performance, and user flow. | Architecting robust APIs, database schemas, authentication layers, and business logic before UI. |
+| Building responsive, accessible, and polished interfaces with strong attention to component structure, performance, and user flow. | Architecting robust APIs, database schemas, authentication layers[...] 
 
 | 💡 **Full-Stack Ownership** | 🚀 **Production-Ready Shipping** |
 |:---|:---|
-| Designing UX, building backend, managing data flow, and connecting it all with clean architecture. | Real apps, not tutorials. Every project is iterated to completion with attention to edge cases and reliability. |
+| Designing UX, building backend, managing data flow, and connecting it all with clean architecture. | Real apps, not tutorials. Every project is iterated to completion with attention to edge cases an[...] 
 
 </div>
 
@@ -184,10 +184,10 @@
   <table>
     <tr>
       <td valign="top" width="56%">
-        <img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak Stats" />
+        <img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981[...]
       </td>
       <td valign="top" width="44%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&theme=dark&bg_color=0F172A&text_color=ffffff&border_color=10B981&title_color=10B981&icon_color=10B981" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&theme=dark&bg_color=0F172A&text_color=ffffff&border_color=10B981&title_color=10B981&icon_color[...]
       </td>
     </tr>
   </table>
@@ -247,12 +247,12 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
     <tr>
       <td>
         <a href="https://www.mastersahil.dev">
-          <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
         </a>
       </td>
       <td>
         <a href="mailto:contact@mastersahil.dev">
-          <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
+          <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
         </a>
       </td>
     </tr>
@@ -264,11 +264,17 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
       </td>
       <td>
         <a href="https://github.com/masterSahil">
-          <img src="https://img.shields.io/badge/GitHub-Follow%20the%20Build-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
+          <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Follow%20the%20Build-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
         </a>
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=footer&text=Simple%20%7C%20Clean%20%7C%20Consistent&fontSize=22&fontColor=10B981&animation=fadeIn" alt="Footer Banner" />
 </div>
 
 ---
