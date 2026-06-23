@@ -1,23 +1,23 @@
 <!-- Hero Banner Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=280&section=header&text=SAHIL&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%26%20Backend%20Systems%20Engineer&descAlignY=55&descAlign=50&fontColor=10B981" alt="Hero Banner" />
+<div align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=320&section=header&text=SAHIL&fontSize=88&fontColor=10B981&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%26%20Backend%20Systems&descAlignY=58" alt="Sahil Hero Banner" />
 </div>
 
-<h1 align="center">🏗️ Architecting Scalable Web Systems with the MERN Stack</h1>
+<h1 align="left">🏗️ Architecting Scalable Web Systems with the MERN Stack</h1>
 
-<div align="center">
+<div align="left">
   <p>
     <a href="mailto:contact@mastersahil.dev">
-      <img src="https://img.shields.io/badge/✉_Email-contact%40mastersahil.dev-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
+      <img src="https://img.shields.io/badge/✉️%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/mastersahil">
-      <img src="https://img.shields.io/badge/in_LinkedIn-Connect-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B&color=10B981&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
     </a>
     <a href="https://www.mastersahil.dev">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
     </a>
     <a href="https://github.com/masterSahil">
-      <img src="https://img.shields.io/badge/GitHub-masterSahil-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B&color=10B981&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -26,10 +26,10 @@
 
 ## 📊 Developer Snapshot
 
-<div align="center">
+<div align="left">
   
 | Metric | Status |
-|:---:|:---|
+|:---|:---|
 | **Public Repositories** | 30+ |
 | **Primary Focus** | MERN Stack & Backend Systems |
 | **Backend Specialization** | Node.js, Express, MongoDB CRUD |
@@ -43,7 +43,7 @@
 
 ## ⚙️ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### 🔥 Backend Core
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0F172A" alt="Node.js" />
@@ -70,11 +70,11 @@
 
 ## 🧩 Engineering Philosophy
 
-<div align="center">
+<div align="left">
 
 | 🎯 **Backend-First Design** | 🏗️ **Production-Ready Shipping** |
 |:---|:---|
-| Architecting robust APIs, database schemas, and business logic before UI. Building systems that scale. | Real apps, not tutorials. Every project is iterated to completion with attention to edge cases and performance. |
+| Architecting robust APIs, database schemas, and business logic before UI. Building systems that scale. | Real apps, not tutorials. Every project is iterated to completion with attention to edge cases and usability. |
 
 | 💡 **Full-Stack Ownership** | 🚀 **Continuous Iteration** |
 |:---|:---|
@@ -86,7 +86,7 @@
 
 ## 📈 My Repository Portfolio
 
-<div align="center">
+<div align="left">
 
 ### 🔧 Backend-Heavy MERN Projects
 | Project | Tech Stack | Focus Area |
@@ -120,16 +120,24 @@
 
 ## 📊 Development Velocity
 
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&theme=dark&bg_color=0F172A&text_color=ffffff&border_color=10B981&title_color=10B981&icon_color=10B981&langs_count=8&layout=compact" alt="Top Languages" />
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top" width="56%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak Stats" />
+      </td>
+      <td valign="top" width="44%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&theme=dark&bg_color=0F172A&text_color=ffffff&border_color=10B981&title_color=10B981&icon_color=10B981&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 🎯 What I'm Known For
 
-<div align="center">
+<div align="left">
 
 🔐 **Secure Auth Systems** • 🗄️ **Database-Driven Apps** • 📤 **File Upload Handling**
 
@@ -143,7 +151,7 @@
 
 ## 🛠️ My Build Process
 
-<div align="center">
+<div align="left">
 
 **01 — Design & Plan** → Architecture the backend system, database schema, and API endpoints
 
@@ -174,27 +182,44 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
 
 ## 🌐 Let's Connect
 
-<div align="center">
-
-**Portfolio:** [www.mastersahil.dev](https://www.mastersahil.dev)
-
-**GitHub:** [@masterSahil](https://github.com/masterSahil)
-
-**Email:** [contact@mastersahil.dev](mailto:contact@mastersahil.dev)
-
-**LinkedIn:** [mastersahil](https://linkedin.com/in/mastersahil)
-
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.mastersahil.dev">
+          <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:contact@mastersahil.dev">
+          <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/mastersahil">
+          <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Let%27s%20Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/masterSahil">
+          <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Follow%20the%20Build-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer&text=Building%20Tomorrow's%20Web%20Systems%20Today&fontSize=20&fontColor=10B981&animation=fadeIn" alt="Footer Banner" />
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   <p>
     <strong>I build MERN stack and backend-heavy web applications with architectural rigor and user-focused polish.</strong>
   </p>
