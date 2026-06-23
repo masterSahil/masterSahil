@@ -8,16 +8,16 @@
 <div align="left">
   <p>
     <a href="mailto:contact@mastersahil.dev">
-      <img src="https://img.shields.io/badge/✉️%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
+      <img src="https://img.shields.io/badge/%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/mastersahil">
       <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
     </a>
     <a href="https://www.mastersahil.dev">
-      <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
     </a>
     <a href="https://github.com/masterSahil">
-      <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
+      <img src="https://img.shields.io/badge/%20GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -247,12 +247,12 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
     <tr>
       <td>
         <a href="https://www.mastersahil.dev">
-          <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
         </a>
       </td>
       <td>
         <a href="mailto:contact@mastersahil.dev">
-          <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
+          <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
         </a>
       </td>
     </tr>
@@ -264,17 +264,11 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
       </td>
       <td>
         <a href="https://github.com/masterSahil">
-          <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Follow%20the%20Build-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
+          <img src="https://img.shields.io/badge/GitHub-Follow%20the%20Build-0F172A?style=for-the-badge&logo=github&logoColor=10B981&labelColor=1E293B&color=10B981" alt="GitHub" />
         </a>
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=120&section=footer&text=Simple%20%7C%20Clean%20%7C%20Consistent&fontSize=22&fontColor=10B981&animation=fadeIn" alt="Footer Banner" />
 </div>
 
 ---
