@@ -109,13 +109,19 @@
 </table>
 
 #### Security
-<img src="https://img.shields.io/badge/bcrypt-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B" alt="bcrypt" />
-<img src="https://img.shields.io/badge/CORS-10B981?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="CORS" />
-<img src="https://img.shields.io/badge/Rate_Limiting-0F172A?style=for-the-badge&logoColor=10B981&labelColor=1E293B" alt="Rate Limiting" />
+
+<p>
+  <img src="https://img.shields.io/badge/bcrypt-0F172A?style=for-the-badge&labelColor=1E293B" />
+  <img src="https://img.shields.io/badge/CORS-10B981?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-0F172A?style=for-the-badge&labelColor=1E293B" />
+</p>
 
 ### 🧠 Systems & DSA
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0F172A" alt="C++" />
-<img src="https://img.shields.io/badge/DSA-10B981?style=for-the-badge&logoColor=10B981&labelColor=0F172A" alt="DSA" />
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/DSA-10B981?style=for-the-badge&labelColor=0F172A" />
+</p>
 
 </div>
 
