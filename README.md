@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/%20Email-Open%20Inbox-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/mastersahil" target="_blank">
-      <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=files&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
     </a>
     <a href="https://www.mastersahil.dev" target="_blank">
       <img src="https://img.shields.io/badge/%20Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=10B981&labelColor=1E293B&color=10B981" alt="Portfolio" />
@@ -226,7 +226,7 @@ Then this profile demonstrates the **right technical depth, shipping mindset, an
     <tr>
       <td>
         <a href="https://linkedin.com/in/mastersahil" target="_blank">
-          <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Let%27s%20Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Let%27s%20Connect-0F172A?style=for-the-badge&logo=files&logoColor=10B981&labelColor=1E293B&color=10B981" alt="LinkedIn" />
         </a>
       </td>
       <td>
