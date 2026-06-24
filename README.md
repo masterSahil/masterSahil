@@ -163,15 +163,16 @@
 
 ## 🎯 What I'm Known For
 
-<div align="left">
-
-🔐 **Secure Auth Systems** • 🗄️ **Database-Driven Apps** • 📤 **File Upload Handling**
-
-🌐 **Scalable APIs** • ⚡ **Performance Optimization** • 🎨 **Polished UI/UX**
-
-🏭 **Clean Architecture** • 📦 **Reusable Components** • 🚀 **Rapid Iteration**
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Secure_Auth-JWT_&_RBAC-0F172A?style=for-the-badge&logo=socket&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Performance-Optimization-0F172A?style=for-the-badge&logo=lighthouse&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Database-MongoDB_Architecture-0F172A?style=for-the-badge&logo=mongodb&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/File_Upload-Cloudinary_&_Storage-0F172A?style=for-the-badge&logo=cloudinary&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/APIs-Scalable_Backend_Systems-0F172A?style=for-the-badge&logo=fastapi&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_&_Maintainable-0F172A?style=for-the-badge&logo=codefactor&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Components-Reusable_Design_System-0F172A?style=for-the-badge&logo=storybook&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Development-Rapid_Iteration-0F172A?style=for-the-badge&logo=rocket&logoColor=10B981" />
+</p>
 
 ---
 
