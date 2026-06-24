@@ -108,7 +108,7 @@
 </tr>
 </table>
 
-#### Security
+### Security
 
 <p>
   <img src="https://img.shields.io/badge/bcrypt-0F172A?style=for-the-badge&labelColor=1E293B" />
