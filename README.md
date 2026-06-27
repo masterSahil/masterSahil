@@ -25,7 +25,7 @@
   
 | Metric | Status |
 |:---|:---|
-| **Public Repositories** | 30+ |
+| **Public Repositories** | 40+ |
 | **Primary Focus** | Full-Stack JavaScript Development |
 | **Frontend Core** | React, Next.js, Vite, Responsive UI |
 | **Backend Core** | Node.js, Express.js, MongoDB, REST APIs |
