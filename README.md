@@ -159,9 +159,10 @@
   </table>
 </div>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=masterSahil&theme=tokyo-night" />
-
 ---
+
+## Contributions
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=masterSahil&theme=tokyo-night" />
 
 ## 🎯 What I'm Known For
 
