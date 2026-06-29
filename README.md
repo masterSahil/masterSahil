@@ -152,7 +152,7 @@
   <img width="100%" height="100%" src="https://streak-stats.demolab.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&hide_border=true" />
   </td>
   
-  <td width="65%">
+  <td width="100%">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&layout=compact&theme=dark&bg_color=0F172A&title_color=10B981&text_color=ffffff&hide_border=true" />
   </td>
   </tr>
