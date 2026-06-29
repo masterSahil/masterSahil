@@ -153,7 +153,7 @@
   </td>
   
   <td width="45%">
-  <img width="100%" src="https://github-used-languages.vercel.app/masterSahil?theme=dark" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterSahil&layout=compact&theme=dark&bg_color=0F172A&title_color=10B981&text_color=ffffff&hide_border=true" />
   </td>
   </tr>
   </table>
