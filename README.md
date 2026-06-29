@@ -146,7 +146,7 @@
 ## 📈 Development Velocity
 
 <div align="left">
-  <table>
+  <table width="100%">
   <tr>
   <td width="55%">
   <img width="100%" height="100%" src="https://streak-stats.demolab.com?user=masterSahil&theme=dark&background=0F172A&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&hide_border=true" />
