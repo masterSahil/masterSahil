@@ -159,7 +159,7 @@
   </table>
 </div>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=masterSahil" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=masterSahil&theme=tokyo-night" />
 
 ---
 
